@@ -1,15 +1,15 @@
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=laulaman&include_all_commits=true&count_private=true&show_icons=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laulaman)
+![Github stats](https://github-readme-stats.vercel.app/api?username=laulaman&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laulaman&theme=dracula)
 
 
 I'm proud of the following repos:
 
-[![Apple Passbook](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook&show_owner=true)](https://github.com/LauLamanApps/apple-passbook)
-[![Apple Passbook Bundle](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook-bundle&show_owner=true)](https://github.com/LauLamanApps/apple-passbook-bundle)
+[![Apple Passbook](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook&show_owner=true&theme=dracula)](https://github.com/LauLamanApps/apple-passbook)
+[![Apple Passbook Bundle](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook-bundle&show_owner=true&theme=dracula)](https://github.com/LauLamanApps/apple-passbook-bundle)
 
-[![iZettleApi](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=iZettleApi&show_owner=true)](https://github.com/LauLamanApps/iZettleApi)
-[![NestApi](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=NestApi&show_owner=true)](https://github.com/LauLamanApps/NestApi)
+[![iZettleApi](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=iZettleApi&show_owner=true&theme=dracula)](https://github.com/LauLamanApps/iZettleApi)
+[![NestApi](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=NestApi&show_owner=true&theme=dracula)](https://github.com/LauLamanApps/NestApi)
 
 
 <!--
