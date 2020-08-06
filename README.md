@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laulaman)
 
 
-I'm proud of the folowing repos:
+I'm proud of the following repos:
 
 [![Apple Passbook](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook&show_owner=true)](https://github.com/LauLamanApps/apple-passbook)
 [![Apple Passbook Bundle](https://github-readme-stats.vercel.app/api/pin/?username=laulamanapps&repo=apple-passbook-bundle&show_owner=true)](https://github.com/LauLamanApps/apple-passbook-bundle)
